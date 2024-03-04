@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.d95e2ef2.js",
-    "index.html": "/index.html",
-    "main.d95e2ef2.js.map": "/static/js/main.d95e2ef2.js.map"
+    "main.js": "/Reakt_kt_5/static/js/main.d95e2ef2.js",
+    "index.html": "/Reakt_kt_5/index.html",
+    "main.d95e2ef2.js.map": "/Reakt_kt_5/static/js/main.d95e2ef2.js.map"
   },
   "entrypoints": [
     "static/js/main.d95e2ef2.js"
